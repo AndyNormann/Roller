@@ -1,0 +1,9 @@
+[package]
+name = "roller"
+version = "0.1.0"
+authors = ["andynormann <andreas.fladstad@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+regex = "1"
+rand = "0.6.5"
