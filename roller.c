@@ -1,6 +1,3 @@
-// Author: Andreas Fladstad
-// Compile with gcc roller.c -o roller
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
